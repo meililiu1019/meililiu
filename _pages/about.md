@@ -34,8 +34,9 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2016.06 - 2019.09*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://hgxy.hunnu.edu.cn/ssjgy.jsp?wbtreeid=1171&searchScope=0&currentnum=300&newskeycode2="><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 湖南师范大学 化学学院, 湖南长沙, 本科
+- *2019.09 - 2021.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 加州大学伯克利分校 化学学院, 美国加州, 联合培养 
+- *2016.06 - 2019.09*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 北京师范大学 化学学院, 中国北京, 推免直博 
+- *2012.09 - 2016.06*, <a href="https://hgxy.hunnu.edu.cn/ssjgy.jsp?wbtreeid=1171&searchScope=0&currentnum=300&newskeycode2="><img class="png" src="/images/HNU_logo.png" width="20pt"></a> 湖南师范大学 化学学院, 湖南长沙, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
