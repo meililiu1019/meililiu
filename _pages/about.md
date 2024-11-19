@@ -34,8 +34,8 @@ redirect_from:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 学历
-- *2016.06 - 2022.12*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
-- *2012.09 - 2016.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 四川大学 制造科学与工程学院, 四川成都, 本科
+- *2016.06 - 2019.09*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/HUST_logo.svg" width="23pt"></a> 华中科技大学 机械科学与工程学院, 湖北武汉, 推免直博 
+- *2012.09 - 2016.06*, <a href="https://hgxy.hunnu.edu.cn/ssjgy.jsp?wbtreeid=1171&searchScope=0&currentnum=300&newskeycode2="><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 湖南师范大学 化学学院, 湖南长沙, 本科
  
 <span class='anchor' id='-lwzl'></span>
 
