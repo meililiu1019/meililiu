@@ -17,17 +17,15 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于湖北武汉的 华中科技大学 机械科学与工程学院，我的导师是康宜华教授。本科毕业于四川成都的 四川大学 制造科学与工程学院（现机械工程学院）。包括合著，我已经发表 20+ 篇学术论文
- <a href='https://scholar.google.com/citations?user=WMkMTb4AAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
+我将博士毕业于中国北京的 北京师范大学 化学学院，我的导师是陈光巨教授。本科毕业于湖南长沙的 湖南师范大学 化学学院。包括合著，我已经发表 20+ 篇学术论文
+ <a href='https://scholar.google.com/citations?user=Y9cxi3MAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
-- 仪器仪表
-- 机械工程
-- 电磁无损检测
-- 漏磁检测
-- 涡流检测
-- 磁传感器
-- 无损检测装备开发
+- 计算化学方法的开发与应用
+- 分子动力学（MD）
+- 增强采样技术
+- 复杂体系（如材料和生物大分子）中的模拟研究
+
   
 
 
