@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-我将博士毕业于中国北京的 北京师范大学 化学学院，我的导师是陈光巨教授。本科毕业于湖南长沙的 湖南师范大学 化学学院。包括合著，我已经发表 20+ 篇学术论文
+博士毕业于中国北京的 北京师范大学 化学学院，我的导师是陈光巨教授。本科毕业于湖南长沙的 湖南师范大学 化学学院。包括合著，我已经发表 20+ 篇学术论文
  <a href='https://scholar.google.com/citations?user=Y9cxi3MAAAAJ&hl=en'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=引用"></a>。
 
 我的研究领域包括：
